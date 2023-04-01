@@ -1,28 +1,47 @@
-# co0764af7bcc2738e9be81e9a
+# React-Notes-App
 
-Quick start:
+# Description:
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
+React Notes App is a simple application built using React framework for creating, editing and deleting notes. The app is designed to provide an easy-to-use interface for managing your notes with just a few clicks.
 
-## Development
+# Features:
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
+- User can create new notes by adding title and content
 
-```
-$ yarn watch # npm run watch
-```
+- User can edit existing notes
 
-## About Scrimba
+- User can delete notes
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+- Notes are automatically saved and updated in the browser's local storage
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- User can search notes by keyword
 
-Happy Coding!
+# Installation:
+
+To use this app, you can clone the repo from GitHub, install the required dependencies using the npm package manager, and start the app in development mode.
+
+# Requirements:
+
+- Node.js
+
+- NPM (Node Package Manager)
+
+# Usage:
+
+- Clone the repo: git clone https://github.com/username/react-notes-app.git
+
+- Navigate to the project directory: cd react-notes-app
+
+- Install dependencies: npm install
+
+- Start the app in development mode: npm start
+
+- Open http://localhost:3000 to view the app in the browser.
+
+# Contributing:
+
+This project is open to contributions from the community. If you would like to contribute, please fork the repository, create a new branch, make your changes, and submit a pull request.
+
+# License:
+
+React Notes App is licensed under the MIT License. See the LICENSE file for more details.
